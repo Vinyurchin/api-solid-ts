@@ -1,9 +1,9 @@
 export interface RegisterDTO {
-    email: String;
-    password: String;
+    email: string;
+    password: string;
 }
 
 export interface loginDTO{
     email: string;
-    password: String;
+    password: string;
 }
